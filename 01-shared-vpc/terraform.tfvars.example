@@ -1,0 +1,6 @@
+host_project_id    = "<your-host-project-id>"
+service_project_id = "<your-service-project-id>"
+
+# Optional: change defaults
+# region       = "us-east1"
+# network_name = "osd-shared-vpc"
